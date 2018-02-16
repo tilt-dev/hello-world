@@ -1,0 +1,6 @@
+{
+  "pointer": "hello-world",
+  "ignorePatterns": [
+    ".git/**"
+  ]
+}
